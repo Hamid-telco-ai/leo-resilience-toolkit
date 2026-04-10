@@ -101,7 +101,7 @@ streamlit run dashboard/streamlit_app.py
 
 - 3GPP TR 38.863 V19.1.0 – *NR NTN Enhancements*
 - O-RAN.WG1.TR.RIC4NTN-R005-v02.00 – *RIC Enabling NTN Deployments*
-- :contentReference[oaicite:0]{index=0} – https://celestrak.org
+- https://celestrak.org
 - https://lnkd.in/eP2Jt6tB
 - D. A. Vallado et al., *“Revisiting Spacetrack Report #3,”* 2006
 - ITU-R P.525 – *Free-space propagation model*
