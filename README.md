@@ -1,4 +1,4 @@
-# LEO Resilience Toolkit
+# LEO Link Resilience Toolkit
 
 This project simulates and analyzes **LEO satellite connectivity resilience** using:
 - Orbital simulation (TLE / Skyfield)
