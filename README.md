@@ -73,13 +73,6 @@ cd backend
 uvicorn app.main:app --reload
 ```
 
-### 5. Open docs
-
-Visit:
-
-- http://127.0.0.1:8000/docs
-
-
 ### Download live public TLEs
 ```bash
 python tools/download_starlink_tles.py --fallback
