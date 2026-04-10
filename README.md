@@ -6,3 +6,7 @@ This project simulates and analyzes **LEO satellite connectivity resilience** us
 - Event generation
 - Backend processing (FastAPI)
 - Visualization (Streamlit)
+
+- ## 🎥 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
