@@ -9,7 +9,7 @@ This project simulates and analyzes **LEO satellite connectivity resilience** us
 
 ---
 # Project Structure
-
+```
 LEO-resilience-toolkit/
 │
 ├── backend/
@@ -30,4 +30,4 @@ LEO-resilience-toolkit/
 ├── scripts/
 ├── tests/
 └── README.md
-
+```
