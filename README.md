@@ -8,3 +8,26 @@ This project simulates and analyzes **LEO satellite connectivity resilience** us
 - Visualization (Streamlit)
 
 ---
+# Project Structure
+
+LEO-resilience-toolkit/
+│
+├── backend/
+│   └── app/
+│       ├── api/
+│       ├── core/
+│       ├── db/
+│       ├── services/
+│       └── requirements.txt
+│
+├── dashboard/
+│   └── streamlit_app.py
+│
+├── simulation/
+│   └── sample_scenarios/
+│
+├── artifacts/
+├── scripts/
+├── tests/
+└── README.md
+
