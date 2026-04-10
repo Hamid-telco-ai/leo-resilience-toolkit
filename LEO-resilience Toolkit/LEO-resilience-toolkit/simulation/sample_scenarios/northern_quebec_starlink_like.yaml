@@ -1,0 +1,22 @@
+scenario_name: northern_quebec_starlink_like
+region:
+  name: Ivujivik_QC
+  latitude_deg: 62.417
+  longitude_deg: -77.900
+  altitude_m: 10
+simulation:
+  start_utc: "now"
+  duration_s: 3600
+  step_s: 30
+constellation:
+  type: starlink_like
+  tle_source: local_sample
+  tle_file: simulation/sample_scenarios/starlink_live.tle
+user_profile:
+  type: emergency_responder
+application:
+  type: mission_critical_voice
+environment:
+  weather: clear
+  blockage: low
+  interference: none
